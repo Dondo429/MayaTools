@@ -1,0 +1,4 @@
+import pymel.core as pm
+
+sel = pmc.ls(sl=1)[0]
+print(sel)
